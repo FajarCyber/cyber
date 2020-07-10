@@ -1,0 +1,3 @@
+sleep 1
+echo "$green TERIMA KASIH TELAH MENGGUNAKAN TOOLS INI"
+echo "$cyan BY : FAJAR CYBER"
